@@ -1,2 +1,4 @@
 # git-practice
-git 교재 실습을 위한 저장소
+New New git 교재 실습을 위한 저장소
+
+작성일자 : 24.10.14
